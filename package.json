@@ -206,4 +206,8 @@
         "pixi-graph-fork/@pixi/mixin-get-child-by-name": "6.2.0",
         "pixi-graph-fork/@pixi/math": "6.2.0"
     }
+    "scripts": {
+  "electron:make-win32": "electron-forge make --arch=ia32"
+}
+
 }
